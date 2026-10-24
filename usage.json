@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/graphenix-authoring-analysis",
+  "packageVersion": "2.17.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/graphenix-authoring-analysis",
+  "usageRepository": "https://github.com/x12i-sdk/graphenix-authoring-analysis",
+  "sourceRepository": "https://github.com/x12i/graphenix-format",
+  "sourceCommit": "28599719bd064429c220df35e297d299f81bbb40",
+  "sourcePackageDirectory": "packages/authoring-analysis",
+  "example": {
+    "title": "Validate a reference graph-project envelope",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:56:31.059045+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "a159c4edbf8ea5f4cf76ade617b2a2ac2c9fb84c2efb7af3399f37d92a4ffc84",
+    "manifestSha256": "c883e27ed1287ef4d9ec6aa7667bcaa24be2dcb802d79ff29d7f83df2fb1bee1"
+  }
+}
